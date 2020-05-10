@@ -127,9 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
-=======
 
 # Sensitive config data
 config.py
->>>>>>> 8c5ebeb1c5fc96b6adfdea17f5d43e2f5624bfc6

@@ -130,3 +130,7 @@ dmypy.json
 
 # Sensitive config data
 config.py
+#csv files too large
+all_data.csv
+traffic_cams_final.csv
+traffic_cams.csv

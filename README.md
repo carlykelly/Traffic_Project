@@ -1,4 +1,4 @@
-# Traffic_Project
+# Traffic Project
 This project was authored by Carly Kelly, Yasir Omar, David Hoff, and Clementine Sraha.
 
 The purpose of this project was to explore the relationship between socioeconomic status and traffic tickets issued by cameras in Washington D.C.
